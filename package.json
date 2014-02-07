@@ -1,0 +1,25 @@
+{
+  "name": "etpl-express",
+  "version": "1.0.0",
+  "description": "etpl for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "etpl",
+    "express"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jinzhubaofu/etpl-express.git"
+  },
+  "author": "leonlu@outlook.com",
+  "license": "MIT",
+  "dependencies": {
+    "etpl": "~2.0.8",
+    "q": "~1.0.0",
+    "async": "~0.2.10",
+    "underscore": "~1.5.2"
+  }
+}
